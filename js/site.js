@@ -1,1 +1,1 @@
-$(function () { $("#Hide").on("click", function () { $(this).replaceWith("geral" + "@" + "jpl" + "-" + "contabilidade" + "." + "pt") }) })
+$(function () { $("#Hide").on("click", function () { $(this).replaceWith("E-mail: " + "geral" + "@" + "jpl" + "-" + "contabilidade" + "." + "pt") }) })
